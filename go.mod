@@ -1,4 +1,4 @@
-module joeldare/x3
+module github.com/IronMan0404/https-basic-auth-go
 
 go 1.16
 
